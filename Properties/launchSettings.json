@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowsCopyDialog": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Y:\\.rom_latest\\*.rom\" .\\"
+    }
+  }
+}
